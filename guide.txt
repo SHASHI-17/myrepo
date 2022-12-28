@@ -15,10 +15,8 @@ dummy changes
 
 new changes
 
-<<<<<<< HEAD
 added new changes
-=======
 new changes 2
->>>>>>> naya
+  naya
 
 vs code mein change
