@@ -14,3 +14,20 @@ passcode-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
 dummy changes
 
 new changes
+
+M SHASHI KUMAR
+shashikiran7257@gmail.com
+N*345T(Ne)/
+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
+
+local system
+user.name 
+user.email
+
+git push -u origin master 
+user name -SHASHI-17
+passcode-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
+
+dummy changes
+
+new changes
